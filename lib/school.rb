@@ -1,6 +1,6 @@
 class School
   
-  attr_accessible :name, :roster
+  attr_accessor :name, :roster
   
   
   
