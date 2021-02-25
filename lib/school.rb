@@ -13,6 +13,7 @@ class School
     else
       @roster[student_grade] << student_name
     end
+  end
   
   
   
